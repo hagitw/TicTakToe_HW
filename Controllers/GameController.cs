@@ -10,7 +10,7 @@ namespace TicTakToe_HW.Controllers
 {
     public class GameController : ApiController
     {
-        /// <summary>
+        /// <summary>  
         /// create board
         /// and SessionId
         /// </summary>
